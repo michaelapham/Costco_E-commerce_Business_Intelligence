@@ -39,42 +39,42 @@ You have two weeks before the executive presentation.
 ### 💰 Finance Director
 *"I need to understand where we're actually making money — and where we're not."*
 
-What is total revenue, gross profit, and gross margin by department?
-Which departments have the highest and lowest profit margins?
-How has revenue trended month-over-month and year-over-year?
-What is the running cumulative revenue total through FY2018?
-How do freight costs impact net profitability by department?
-What is the financial impact of returns by department?
+1. What is total revenue, gross profit, and gross margin by department?
+2. Which departments have the highest and lowest profit margins?
+3. How has revenue trended month-over-month and year-over-year?
+4. What is the running cumulative revenue total through FY2018?
+5. How do freight costs impact net profitability by department?
+6. What is the financial impact of returns by department?
 
 ### 📣 Marketing Manager
 *"Our CAC feels too high. I need to know which channels are actually working."*
 
-What is our Customer Acquisition Cost (CAC) by marketing channel?
-What is our Return on Ad Spend (ROAS) by channel?
-Which channel delivers the most revenue per marketing dollar?
-How has new customer acquisition trended over three years?
-What is the conversion rate from acquired customer to repeat buyer?
-Which marketing channels are most efficient for high-CLV customers?
+1. What is our Customer Acquisition Cost (CAC) by marketing channel?
+2. What is our Return on Ad Spend (ROAS) by channel?
+3. Which channel delivers the most revenue per marketing dollar?
+4. How has new customer acquisition trended over three years?
+5. What is the conversion rate from acquired customer to repeat buyer?
+6. Which marketing channels are most efficient for high-CLV customers?
 
 ### 🛍️ VP of E-Commerce
 *"Why aren't customers coming back? And who are our best customers?"*
 
-What is the overall repeat purchase rate?
-What does our RFM segmentation look like — who are our Champions vs. At-Risk customers?
-What is the average Customer Lifetime Value across segments?
-Which customer cohorts have the highest 90-day and 180-day retention rates?
-What percentage of customers have made 2+ orders?
-Which states have the highest customer concentration and LTV?
+1. What is the overall repeat purchase rate?
+2. What does our RFM segmentation look like — who are our Champions vs. At-Risk customers?
+3. What is the average Customer Lifetime Value across segments?
+4. Which customer cohorts have the highest 90-day and 180-day retention rates?
+5. What percentage of customers have made 2+ orders?
+6. Which states have the highest customer concentration and LTV?
 
 ### 🏷️ Merchandising Lead
 *"I need to know which products to push, which to cut, and which are getting returned too often."*
 
-Which product departments rank highest by gross profit?
-What is the return rate by department and what are the top return reasons?
-What is the average review score by department — where are quality issues concentrated?
-Which specific products within each department generate the most profit?
-How does order volume compare to profitability across departments (volume vs. margin)?
-What is the on-time delivery rate by department and seller?
+1. Which product departments rank highest by gross profit?
+2. What is the return rate by department and what are the top return reasons?
+3. What is the average review score by department — where are quality issues concentrated?
+4. Which specific products within each department generate the most profit?
+5. How does order volume compare to profitability across departments (volume vs. margin)?
+6. What is the on-time delivery rate by department and seller?
 
 ---
 
