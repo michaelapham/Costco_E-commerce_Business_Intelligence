@@ -1,5 +1,6 @@
 # Costco Wholesale — E-commerce Division Case Study 🏤
 
+
 ## The Challenge
 You've just joined Costco Wholesale's newly formed E-Commerce Analytics team as a Junior Data Analyst. The division has been running its online storefront for three years, and management has a problem: nobody has a clear picture of what's actually working.
 On your first week, your manager drops a Slack message in your inbox:
