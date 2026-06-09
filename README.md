@@ -172,7 +172,12 @@ Business Analytics
    - Refresh data and explore all four dashboards
 
 ---
- 
+
+## Limitations 🛑
+- Return dates are independently generated within the 2016–2018 range and are not constrained to be post-purchase-date for simplicity.
+
+---
+
 ## 💡 Next Steps & Extensions
 (To be filled in after analysis is complete to see what would make sense to add next)
 
