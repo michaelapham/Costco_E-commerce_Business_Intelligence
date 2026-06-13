@@ -291,7 +291,7 @@ Excel
 
 ## Limitations 🛑
 
-- - **Synthetic supporting tables**: `product_costs_clean` (margins),
+- **Synthetic supporting tables**: `product_costs_clean` (margins),
   `marketing_spend_clean` (CAC/ROAS), and `order_returns_clean` (returns)
   were generated to supplement the Olist dataset. Gross margins are uniform
   within each department rather than varying by SKU, marketing CAC is
@@ -339,6 +339,6 @@ Excel
 
 ## 👤 Author
  
-**Michael Pham**  
-[github.com/michaelapham](https://github.com/michaelapham)
-[linkedin.com/in/michaelapham99](https://linkedin.com/in/michaelapham99)
+- **Michael Pham**  
+- [github.com/michaelapham](https://github.com/michaelapham)
+- [linkedin.com/in/michaelapham99](https://linkedin.com/in/michaelapham99)
